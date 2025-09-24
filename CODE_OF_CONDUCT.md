@@ -1,45 +1,49 @@
-# Code of Conduct for Greenpill Dev Guild GitHub Organization
+# Code of Conduct for Gardens
 
-## Introduction
+Gardens is built on the principles of community-driven governance and inclusive participation. We are committed to fostering a welcoming environment where all contributors can collaborate effectively, regardless of their background, experience level, or identity.
 
-The Greenpill Dev Guild is a network of developers and contributors focused on building regenerative digital infrastructure. We are committed to fostering a respectful, inclusive, and collaborative environment for all contributors. This Code of Conduct outlines the expectations for behavior within our community, both online and offline, including contributions to our GitHub repositories.
+#### Our Community Covenant
 
-## Our Values
+Just as Gardens enables communities to create their own covenants for governance, our development community operates under shared values:
 
-- **Respect and Inclusivity:** We value diverse perspectives and ensure that all voices are heard. Everyone should feel welcome regardless of their background, identity, or experience level.
-- **Transparency:** All contributions, discussions, and decisions should be open and transparent to the community. Transparency builds trust and fosters collaboration.
-- **Integrity:** Maintain honesty and integrity in all contributions, whether they are in code, documentation, or communication.
-- **Collaboration:** Open source thrives on collaboration. Be generous with your time, knowledge, and expertise. Be open to feedback and willing to give constructive feedback.
-- **Ethical Development:** Prioritize ethical practices in development, ensuring that our projects contribute positively to society, the environment, and public goods.
+- **Respectful Communication**: We engage in constructive dialogue, listen actively, and assume good intentions from fellow contributors
+- **Inclusive Collaboration**: We welcome diverse perspectives and encourage participation from contributors of all backgrounds and skill levels
+- **Constructive Feedback**: We provide thoughtful, specific feedback aimed at improving the project and supporting fellow contributors
+- **Shared Responsibility**: We take collective ownership of the project's success and help maintain a positive community environment
 
-## Expected Behavior
+#### Expected Behavior
 
-1. **Be Respectful**: Engage in constructive and respectful discussions. Disagreement is fine, but rudeness, personal attacks, or harassment will not be tolerated.
-2. **Foster Inclusivity**: Ensure everyone feels welcome. Discriminatory language or behavior related to race, gender, religion, or other aspects of identity will not be tolerated.
-3. **Be Transparent**: All decisions, whether technical or organizational, should be made transparently. Document your contributions clearly and openly.
-4. **Commit to Collaboration**: Share your work early, provide feedback generously, and ask for help when needed. We grow stronger by learning from each other.
-5. **Respect the Community’s Purpose**: The Greenpill Dev Guild is focused on building regenerative and ethical technology. Ensure that your contributions align with these goals.
-6. **Be Responsible**: Hold yourself and others accountable. Own your mistakes, learn from them, and strive for continuous improvement.
+Contributors are expected to:
 
-## Unacceptable Behavior
+- Use welcoming and inclusive language in all communications
+- Respect differing viewpoints and experiences
+- Give and receive constructive feedback gracefully
+- Focus on what's best for the overall community and project
+- Show empathy and kindness toward other community members
+- Help newcomers feel welcome and supported
 
-- **Harassment**: Any form of harassment, including personal attacks, trolling, or unwelcome contact, will not be tolerated.
-- **Discrimination**: Discriminatory comments or behavior regarding race, gender, sexual orientation, or other personal attributes are unacceptable.
-- **Violence or Threats**: Any form of violent or threatening behavior is grounds for immediate removal from the community.
-- **Unethical Practices**: Contributions that knowingly harm the environment, society, or individuals, or involve dishonesty or deception, are strictly prohibited.
+#### Unacceptable Behavior
 
-## Reporting Incidents
+The following behaviors are not tolerated:
 
-If you experience or witness any behavior that violates this Code of Conduct, please contact a member of the Greenpill Dev Guild stewardship team. All reports will be handled confidentially, and we will take appropriate action to ensure the safety and integrity of our community.
+- Harassment, discrimination, or exclusionary conduct of any kind
+- Trolling, insulting comments, or personal attacks
+- Public or private harassment
+- Publishing others' private information without permission
+- Any conduct that would be inappropriate in a professional setting
 
-## Consequences of Unacceptable Behavior
+#### Enforcement and Resolution
 
-Unacceptable behavior will not be tolerated. If a community member engages in unacceptable behavior, the stewardship team may take any action they deem appropriate, including but not limited to:
+Community conflicts should first be addressed through direct, respectful communication. For serious issues or persistent problems:
 
-- A verbal or written warning.
-- Temporary suspension from community spaces (such as GitHub, Discord, or Telegram).
-- Permanent removal from the organization.
+1. Contact the maintainers through our [Discord Community](https://discord.gg/tJWPg69ZWG)
+2. Report issues privately via GitHub or Discord direct messages
+3. For urgent matters, reach out to project maintainers directly
 
-## Acknowledgments
+We believe in restorative rather than punitive approaches, focusing on education and community healing when possible.
 
-This Code of Conduct is based on guidelines from the Greenpill Dev Guild and other open-source community codes. It is an evolving document, and we welcome feedback from the community on how to improve it.
+#### Building Together
+
+Gardens v2 empowers communities to govern themselves through transparent, participatory processes. Our development community embraces these same principles, encouraging open discussion, collaborative decision-making, and shared stewardship of this public good.
+
+For questions about community guidelines or to learn more about Gardens' approach to community governance, visit our [Covenant creation tools](https://www.notion.so/1hive-gardens/Covenant-the-community-constitution-103d6929d014801da379c5952d66d1a0) and join the conversation in our [Discord Community](https://discord.gg/tJWPg69ZWG).
