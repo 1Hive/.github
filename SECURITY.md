@@ -18,7 +18,7 @@ We currently support the latest major and minor versions of each project unless 
 
 If you identify a potential security vulnerability in any of our repositories, please follow these steps:
 
-1. **Contact**: Email the issue details to our security team at [security@1hive.org].
+1. **Contact**: Email the issue details to our security team at [corantin.noll@gmail.com].
    - Include a detailed description of the vulnerability, the affected component(s), and the potential impact.
    - Provide steps to reproduce the issue if possible.
 
