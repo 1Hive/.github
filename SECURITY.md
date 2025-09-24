@@ -42,7 +42,7 @@ We implement the following security practices:
 
 If you have questions about this policy or need further information:
 
-- **Security Team Contact**: [security@1hive.org]
+- **Security Team Contact**: [corantin.noll@gmail.com]
 - **Community Guidelines**: Visit our [Discord Community](https://discord.gg/tJWPg69ZWG) for additional context on responsible development practices.
 - **Gardens Documentation**: Learn more about Gardens' approach to community governance at our [Covenant creation tools](https://www.notion.so/1hive-gardens/Covenant-the-community-constitution-103d6929d014801da379c5952d66d1a0).
 
