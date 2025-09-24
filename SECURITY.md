@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Greenpill Dev Guild is dedicated to maintaining the security and privacy of our projects and user data. This document outlines our security practices and provides guidance on how to report potential vulnerabilities. We encourage everyone to responsibly disclose security vulnerabilities to help us protect our projects and our community.
+Gardens is dedicated to maintaining the security and privacy of our projects and user data. This document outlines our security practices and provides guidance on how to report potential vulnerabilities. We encourage everyone to responsibly disclose security vulnerabilities to help us protect our projects and our community.
 
 ## Supported Versions
 
@@ -10,17 +10,15 @@ We currently support the latest major and minor versions of each project unless 
 
 | Project          | Supported Version | End-of-Life Policy |
 | ---------------- | ----------------- | ------------------- |
-| Green Goods  | Latest Version   | N/A for legacy versions, patches for critical issues only |
-| Impact Reef  | Latest Version   | N/A for legacy versions, patches for critical issues only |
-| Allo Yeeter | Latest Version   | N/A for legacy versions, patches for critical issues only |
-| GreenWill  | Latest Version   | N/A for legacy versions, patches for critical issues only |
-| Greenpill Commons  | Latest Version   | N/A for legacy versions, patches for critical issues only |
+| Gardens v2       | Latest Version   | N/A for legacy versions, patches for critical issues only |
+| Gardens v1       | Legacy Support   | Security patches only for critical vulnerabilities |
+| 1Hive Commons    | Latest Version   | N/A for legacy versions, patches for critical issues only |
 
 ## Reporting a Vulnerability
 
 If you identify a potential security vulnerability in any of our repositories, please follow these steps:
 
-1. **Contact**: Email the issue details to our security team at [security@greenpill.builders].
+1. **Contact**: Email the issue details to our security team at [corantin.noll@gmail.com].
    - Include a detailed description of the vulnerability, the affected component(s), and the potential impact.
    - Provide steps to reproduce the issue if possible.
 
@@ -44,6 +42,7 @@ We implement the following security practices:
 
 If you have questions about this policy or need further information:
 
-- **Security Team Contact**: [security@greenpill.builders]
-- **Repository Bounty Guidelines**: Refer to the [Greenpill Dev Guild bounty guidelines](https://app.charmverse.io/greenpill-dev-guild/bounty-guide-7922917475786406) for additional context on responsible development practices.
+- **Security Team Contact**: [corantin.noll@gmail.com]
+- **Community Guidelines**: Visit our [Discord Community](https://discord.gg/tJWPg69ZWG) for additional context on responsible development practices.
+- **Gardens Documentation**: Learn more about Gardens' approach to community governance at our [Covenant creation tools](https://www.notion.so/1hive-gardens/Covenant-the-community-constitution-103d6929d014801da379c5952d66d1a0).
 
