@@ -9,3 +9,7 @@ github: [1Hive] # Your GitHub Sponsors username, if applicable
 custom:
   - url: https://gardens.1hive.org/
     label: Gardens
+  - url: https://gap.karmahq.xyz/project/gardens-/funding
+    label: Karma GAP
+  - url: https://juicebox.money/v4/op:34
+    label: Gardineros Juicebox
