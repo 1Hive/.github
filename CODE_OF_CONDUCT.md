@@ -1,49 +1,47 @@
-# Code of Conduct for Gardens
+# Code of Conduct
 
-Gardens is built on the principles of community-driven governance and inclusive participation. We are committed to fostering a welcoming environment where all contributors can collaborate effectively, regardless of their background, experience level, or identity.
+Markee is a cooperatively owned network built on the principles of openness, shared ownership, and onchain-native coordination. We're committed to building a welcoming environment where contributors across the Ethereum ecosystem can collaborate, regardless of their background, experience, or identity.
 
-#### Our Community Covenant
+#### Our Values
 
-Just as Gardens enables communities to create their own covenants for governance, our development community operates under shared values:
+The Markee Cooperative operates under a published onchain [Covenant](https://app.gardens.fund/gardens/8453/0xce6b968c8bd130ca08f1fcc97b509a824380d867)). The same values that govern the network govern how we build it:
 
-- **Respectful Communication**: We engage in constructive dialogue, listen actively, and assume good intentions from fellow contributors
-- **Inclusive Collaboration**: We welcome diverse perspectives and encourage participation from contributors of all backgrounds and skill levels
-- **Constructive Feedback**: We provide thoughtful, specific feedback aimed at improving the project and supporting fellow contributors
-- **Shared Responsibility**: We take collective ownership of the project's success and help maintain a positive community environment
+- **Openness** -- The codebase is open source and so is this community. Anyone can contribute.
+- **Respect** -- We engage constructively, assume good faith, and treat disagreement as an opportunity to learn, not fight.
+- **Shared Ownership** -- We take collective responsibility for the health of the project and the community around it.
+- **Investment in Public Goods** -- We're building infrastructure that's meant to benefit communities broadly. We act like it.
 
 #### Expected Behavior
 
 Contributors are expected to:
 
-- Use welcoming and inclusive language in all communications
-- Respect differing viewpoints and experiences
-- Give and receive constructive feedback gracefully
-- Focus on what's best for the overall community and project
-- Show empathy and kindness toward other community members
-- Help newcomers feel welcome and supported
+- Use welcoming, inclusive language in all communications
+- Respect differing viewpoints and technical approaches
+- Give and receive feedback constructively and specifically
+- Keep focus on what's best for the project and the communities it serves
+- Support newcomers and help them get oriented
 
 #### Unacceptable Behavior
 
-The following behaviors are not tolerated:
+The following are not tolerated in any form:
 
 - Harassment, discrimination, or exclusionary conduct of any kind
-- Trolling, insulting comments, or personal attacks
-- Public or private harassment
-- Publishing others' private information without permission
-- Any conduct that would be inappropriate in a professional setting
+- Trolling, personal attacks, or insulting comments
+- Publishing others' private information without their explicit consent
+- Any conduct that would be inappropriate in a professional or open source setting
 
-#### Enforcement and Resolution
+#### Enforcement
 
-Community conflicts should first be addressed through direct, respectful communication. For serious issues or persistent problems:
+Issues should first be addressed through direct, respectful conversation. If that's not possible or the problem persists:
 
-1. Contact the maintainers through our [Discord Community](https://discord.gg/tJWPg69ZWG)
-2. Report issues privately via GitHub or Discord direct messages
-3. For urgent matters, reach out to project maintainers directly
+1. Reach out to the maintainers via GitHub
+2. Report serious issues privately via GitHub direct message
+3. For urgent matters, contact project maintainers directly
 
-We believe in restorative rather than punitive approaches, focusing on education and community healing when possible.
+We take a restorative approach where possible, focusing on resolution and community health over punishment.
 
-#### Building Together
+#### Building in the Open
 
-Gardens v2 empowers communities to govern themselves through transparent, participatory processes. Our development community embraces these same principles, encouraging open discussion, collaborative decision-making, and shared stewardship of this public good.
+Markee is governed by its token holders through onchain conviction voting on Gardens. The development community operates under the same spirit of transparent, participatory stewardship. All governance, all code, all decisions: open by default.
 
-For questions about community guidelines or to learn more about Gardens' approach to community governance, visit our [Covenant creation tools](https://www.notion.so/1hive-gardens/Covenant-the-community-constitution-103d6929d014801da379c5952d66d1a0) and join the conversation in our [Discord Community](https://discord.gg/tJWPg69ZWG).
+Questions about community guidelines? Review the [Markee Cooperative Covenant](https://markee.xyz) or join the governance community on [Gardens](https://app.gardens.fund/gardens/8453/0xce6b968c8bd130ca08f1fcc97b509a824380d867).
