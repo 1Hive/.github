@@ -4,7 +4,7 @@ Markee is a cooperatively owned network built on the principles of openness, sha
 
 #### Our Values
 
-The Markee Cooperative operates under a published onchain [Covenant](https://app.gardens.fund/gardens/8453/0xce6b968c8bd130ca08f1fcc97b509a824380d867)). The same values that govern the network govern how we build it:
+The Markee Cooperative operates under a published onchain [Covenant](https://app.gardens.fund/gardens/8453/0xce6b968c8bd130ca08f1fcc97b509a824380d867). The same values that govern the network govern how we build it:
 
 - **Openness** -- The codebase is open source and so is this community. Anyone can contribute.
 - **Respect** -- We engage constructively, assume good faith, and treat disagreement as an opportunity to learn, not fight.
@@ -44,4 +44,4 @@ We take a restorative approach where possible, focusing on resolution and commun
 
 Markee is governed by its token holders through onchain conviction voting on Gardens. The development community operates under the same spirit of transparent, participatory stewardship. All governance, all code, all decisions: open by default.
 
-Questions about community guidelines? Review the [Markee Cooperative Covenant](https://markee.xyz) or join the governance community on [Gardens](https://app.gardens.fund/gardens/8453/0xce6b968c8bd130ca08f1fcc97b509a824380d867).
+Questions about community guidelines? Review the [Markee Cooperative Covenant](https://app.gardens.fund/gardens/8453/0xce6b968c8bd130ca08f1fcc97b509a824380d867) in the Gardens community.
